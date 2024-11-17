@@ -1,1 +1,1 @@
-# zomato-projecct
+# zomato-project
